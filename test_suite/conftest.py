@@ -41,7 +41,5 @@ def login(webdriver_handler: webdriver.Chrome):
     webdriver_handler.get(url)
     login_page = LoginPage(webdriver_handler)
     login_page.login(username, password)
-    configs = "abc"
 
-    yield webdriver_handler, configs
-
+    yield webdriver_handler
