@@ -17,7 +17,7 @@ Start by cloning the repository to your local machine:
 
   ```
   git clone git@github.com:nasirnaqvi/pytestDemo.git
-  cd pytest-orangehrm-demo
+  cd pytestDemo
   ```
 2. Set Up a Virtual Environment (Optional but Recommended) 
 
