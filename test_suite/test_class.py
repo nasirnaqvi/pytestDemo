@@ -24,9 +24,9 @@ class TestAdminPage:
     # We usually use Snake Case for defining individual test methods
     def test_admin_page_functionality(self):
         """Perform some testing on the admin page"""
-        sleep(5)
         assert True
 
 
     def test_add_user(self):
+        """Perform some testing on adding a user"""
         assert True
